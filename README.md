@@ -16,3 +16,9 @@ The app was developed for a swift course HackaTruck.
 ![App Screenshot 1](Imagens/appImages1.png)
 ![App Screenshot 2](Imagens/appImages2.png)
 
+## Agradecimentos aos meu Colegas de Grupo
+
+- David Dias Pinto
+- Leonardo Henrique S. de Avelar
+- Pedro Malta Boscatti
+- Samuel Marques Souza Leal
