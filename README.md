@@ -5,6 +5,8 @@ This repository contains a Swift app for conducting quizzes in the fields of geo
 
 The app was developed for a swift course HackaTruck.
 
+It is currently not being developed because I no longer have acces to a plataform to develop in Swift, only had the oportunity to use a MacBook for a month.
+
 ## Features
 
 - **Geography Quiz:** Test your knowledge of world geography with a wide range of questions covering continents, countries, capitals, landmarks, and more.
